@@ -1,0 +1,4 @@
+train: ./dataset/candy/train
+val: ./dataset/candy/valid
+nc: 1
+names: ['cutlet']
